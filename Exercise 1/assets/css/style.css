@@ -1,0 +1,21 @@
+body{
+	background-color:#ebebeb;
+}
+
+.container-fluid{
+	width:80%;
+	margin-top:-6%;
+}
+
+
+.panel-body{
+	background-color:#3a6f8f;
+	background-color:#FFFFFF;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	border-radius:2px;
+}
+.form-control{
+	border-radius:0px;
+}
+
+

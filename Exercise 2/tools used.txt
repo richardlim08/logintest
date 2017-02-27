@@ -1,0 +1,3 @@
+Place identifying relationship 1:1
+Textbox
+MySQL work bench
